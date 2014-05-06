@@ -5,6 +5,10 @@
 
 @import UIKit;
 
+/**
+ * KBTemplateImage v.1.0.0
+ */
+
 @interface KBTemplateImage : NSObject
 
 + (instancetype)templateImageWithAlphaOfImage:(UIImage *)image;
