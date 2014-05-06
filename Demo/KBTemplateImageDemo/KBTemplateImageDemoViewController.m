@@ -19,7 +19,7 @@ static NSString * const kCellIdentifier = @"kCellIdentifier";
 - (NSArray *)icons
 {
     if (!_icons) {
-        _icons = @[ @"Cloud", @"Globe", @"Photo" ];
+        _icons = @[ @"Cloud", @"Globe", @"Photo", @"Radar" ];
     }
     return _icons;
 }

@@ -3,12 +3,12 @@
     {
       "idiom" : "universal",
       "scale" : "1x",
-      "filename" : "globe.png"
+      "filename" : "radar.png"
     },
     {
       "idiom" : "universal",
       "scale" : "2x",
-      "filename" : "globe@2x.png"
+      "filename" : "radar@2x.png"
     }
   ],
   "info" : {
