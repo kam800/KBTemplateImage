@@ -1,0 +1,10 @@
+PODS:
+  - KeepLayout (1.2.2)
+
+DEPENDENCIES:
+  - KeepLayout (~> 1.2)
+
+SPEC CHECKSUMS:
+  KeepLayout: 0f80364b513a2a4a6183ffe3740706bf861dec16
+
+COCOAPODS: 0.32.1
